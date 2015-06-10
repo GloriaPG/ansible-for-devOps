@@ -1,2 +1,2 @@
 # ansible-for-devOps
-Excersice in Book Ansible for devOps
+Personal project Ansible for devOps
